@@ -1,0 +1,13 @@
+--------------------------------------------安装错误
+打包python的时候可以用pyinstaller来打包文件的时候出错了
+原因就是在安装pyinstaller的是用 pip install pyinstaller方式安装的
+要用pip install （网址）安装pip install https://github.com/pyinstaller/pyinstaller/archive/develop.tar.gz
+
+python 安装 xlrd 错误Cache entry deserialization failed, entry ignored
+更新pip版本:python -m pip install --upgrade pip
+
+
+
+
+
+
